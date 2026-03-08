@@ -94,7 +94,7 @@ To contribute, fork the repository, make your changes, and submit a pull request
 
 ## Background
 
-Built by [Emmanuel Nene Odjidja](https://github.com/emmaodjidja-sys), a global health epidemiologist and M&E specialist with 12+ years of experience in programme evaluation across health, peacebuilding, and development contexts. Currently M&E lead at GCERF (Global Community Engagement and Resilience Fund) for the Sahel and Sri Lanka.
+Built by [Emmanuel Nene Odjidja](https://github.com/emmaodjidja-sys), an M&E specialistand Epidemiologist with 12+ years of experience in programme evaluation across health, peacebuilding, and development contexts. Currently an M&E Specialist: Research, Design and Learning at GCERF (Global Community Engagement and Resilience Fund).
 
 The skill draws on OECD-DAC evaluation standards, UNEG norms, and the methodological literature spanning Pawson and Tilley (realist evaluation), Mayne (contribution analysis), Patton (developmental and utilization-focused evaluation), Fetterman (empowerment evaluation), Davies (evaluability assessment), and others.
 
