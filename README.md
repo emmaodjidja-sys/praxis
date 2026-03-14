@@ -106,7 +106,8 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 This is the open-source community edition of PRAXIS. Future development includes:
 
-- Sector-specific premium modules (PRAXIS Health, PRAXIS PVE, PRAXIS Climate)
+- ✅ PRAXIS Health — health sector evaluation module (see `/praxis-health`)
+- Sector-specific modules in development: PRAXIS PVE, PRAXIS Climate
 - Evaluation quality assurance checker
 - Indicator library with adaptation guidance
 - Integration with statistical analysis workflows (Python/Stata)
