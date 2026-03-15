@@ -16,7 +16,7 @@ PRAXIS is a structured set of instructions and reference materials that guides t
 - **Analysis plans** covering quantitative, qualitative, and mixed-methods integration
 - **Evaluation reports** following UNEG and donor-specific standards
 
-The skill adapts its depth to three experience levels (Foundation, Practitioner, Advanced) and covers evaluation in both stable contexts and fragile, conflict-affected, and violent (FCV) settings.
+The skill adapts its depth to three experience levels (Foundation, Practitioner, Advanced) and covers evaluation in both stable contexts and fragile, conflict-affected, and violent (FCV) settings
 
 ## Coverage
 
