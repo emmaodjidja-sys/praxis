@@ -4,6 +4,12 @@
 
 PRAXIS (from the Greek *praxis*, meaning the practice of applying theory) turns Claude into an evaluation methodologist. It helps M&E practitioners design, implement, and report on programme evaluations grounded in international standards.
 
+## PRAXIS 360°
+
+**Coming soon** — an integrated, open-source AI workflow for end-to-end evaluation design. The evaluation design loop that never breaks. Live demo at Glocal Evaluation Week, June 3, 2026.
+
+[View the coming soon page →](https://emmaodjidja-sys.github.io/praxis/360/)
+
 ## What PRAXIS Does
 
 PRAXIS is a structured set of instructions and reference materials that guides the production of:
@@ -107,6 +113,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 This is the open-source community edition of PRAXIS. Future development includes:
 
 - ✅ PRAXIS Health — health sector evaluation module (see `/praxis-health`)
+- 🔜 [PRAXIS 360°](https://emmaodjidja-sys.github.io/praxis/360/) — integrated AI workflow for end-to-end evaluation design (June 2026)
 - Sector-specific modules in development: PRAXIS PVE, PRAXIS Climate
 - Evaluation quality assurance checker
 - Indicator library with adaptation guidance
